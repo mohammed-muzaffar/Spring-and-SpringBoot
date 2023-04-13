@@ -2,9 +2,9 @@ package com.in28minutes.learnspringframework.game;
 
 public class GameRunner {
 	
-	private superContraGame game;
+	private GamingConsole game;
 	
-	public GameRunner(superContraGame game) {
+	public GameRunner(GamingConsole game) {
 		this.game = game;
 	}
 

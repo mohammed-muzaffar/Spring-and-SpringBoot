@@ -1,9 +1,9 @@
 package com.in28minutes.learnspringframework.game;
 
-public class MarioGame implements GamingConsole {
-
+public class PacMan implements GamingConsole{
 	public void up() {
 		System.out.println("Jump");
+		System.out.println("PacMan Game Running");
 	}
 	
 	public void down() {
