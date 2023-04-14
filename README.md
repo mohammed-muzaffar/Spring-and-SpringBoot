@@ -1,17 +1,17 @@
 <h1>**Spring-and-SpringBoot**</h1>
 
-**Initial Commit**
+<h3>Initial Commit</h3>
 - Tightly Coupling
 - GammerRunner is Parent Class
 - Mario, SuperContra, PacMan are Child Class
 
-**New Brach = Loose-Coupling**
+<h3>New Brach = Loose-Coupling</h3>
 - Loose Coupling
 - Using Interface(GamingConsole) as a ParentClass
 - Mario, SuperContra, PacMan converted to Implement Class.
 
 
-**New Branch = SpringContainer**
+<h3>New Branch = SpringContainer</h3>
 - AnnotationConfigApplicationContext
 - context.getBean("name");
 
