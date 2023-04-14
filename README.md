@@ -13,9 +13,7 @@
 
 <h3>New Branch = SpringContainer</h3>
 - AnnotationConfigApplicationContext
-- context.getBean("name");
-
-**Record @Bean Attribute**
+- context.getBean("name"); Record @Bean Attribute
 - Record Feature released in JDL 16. **Ex: record Address(String firstLine, String city) {};**
 - Without attribute in @Bean means calling bean with the name of method name.
 - @Bean(name="address2"); means calling bean with custom name.
